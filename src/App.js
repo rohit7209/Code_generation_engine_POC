@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import HTMLTag from './HtmlTags'
 import { Header, Footer, Tab, TabPanel } from './components';
 
+
 export default class GeneratePage extends Component {
     constructor(props) {
         super(props)
